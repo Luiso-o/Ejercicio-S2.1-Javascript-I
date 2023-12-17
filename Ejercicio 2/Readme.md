@@ -1,4 +1,4 @@
-### Ejercicio 2
+## Ejercicio 2
 * Función de flecha sin parámetros: Crea una función de flecha llamada `randomNumber` que no requiera parámetros 
 y que devuelva un número aleatorio entre 0 y 100.
 
