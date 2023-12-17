@@ -1,9 +1,14 @@
-const calcularSuma = () => {
-  const numeroUno = parseFloat(document.getElementById("numeroUno").value);
-  const numeroDos = parseFloat(document.getElementById("numeroDos").value);
+const calcularSuma = (numeroUno,numeroDos) => {
+  const num1 = parseFloat(numeroUno);
+  const num2 = parseFloat(numeroDos);
 
-  const suma = numeroUno + numeroDos;
+  const suma = num1 + num2;
 
   document.getElementById("resultado").innerText = "La suma es: " + suma;
+
+  //imprimir resultado por consola
+  console.log("La suma es: " + suma)
+
+  return suma;
 }
 
