@@ -28,3 +28,9 @@ es un buen momento para revisar el material que ofrece en YouTube; es muy intere
 Busca aquellos que se adapten mejor a tu estilo de estudio. Una plataforma donde encontrarás
 una excelente selección de recursos de JavaScript es<a href = "https://www.java5cript.com/"> java5cript.com.</a>
 
+## Objetivos:
+* Comprender y practicar el uso de las funciones de flecha.
+* Aprender y aplicar el operador ternario en diversos contextos.
+* Entender y practicar con callbacks.
+* Conocer y utilizar los operadores Rest y Spread.
+* Familiarizarse con los bucles y las transformaciones en arrays.
