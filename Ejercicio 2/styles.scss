@@ -1,0 +1,15 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.container {
+    border-radius: 50px;
+    width: 500px;
+}
+
+.random {
+    &:hover {
+        background-color: greenyellow;
+        color: red;
+        margin-bottom: red;
+        font-size: bold;
+    }
+}
