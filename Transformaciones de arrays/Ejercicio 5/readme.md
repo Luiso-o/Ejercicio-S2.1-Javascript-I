@@ -9,3 +9,4 @@
 * La función debe devolver el resultado de la suma.
 
 ### solucion propuesta
+![Ejercicio5](https://github.com/Luiso-o/Ejercicio-S2.1-Javascript-I/assets/128043647/d3ccbbc4-ef11-4433-9693-b5efa8fb95c3)
